@@ -3,3 +3,4 @@
 ```go
 ansible-galaxy collection install fortinet.fortios
 ```
+![exampple01](image.png)
